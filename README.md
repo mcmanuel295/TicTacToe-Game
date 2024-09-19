@@ -1,2 +1,2 @@
 # TicTacToe-Game
-A simple web Tic-tac-toe games with java for the logic and operation 
+A simple web Tic-tac-toe games with java for the logic and operation as it
